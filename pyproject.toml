@@ -12,6 +12,7 @@ license = { file = "LICENSE" }
 authors = [{ name = "svasanlc" }]
 dependencies = [
     "python-dotenv>=1.0",
+    "openai>=1.0",
 ]
 
 [project.optional-dependencies]
